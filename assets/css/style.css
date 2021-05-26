@@ -977,6 +977,8 @@ section {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   color: rgba(255, 255, 255, 0.5);
+
+
 }
 /*--------------------------------------------------------------
 # Chefs
@@ -1357,7 +1359,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #d3af71;
+  color: #7e8390;
   font-size: 26px;
 }
 
